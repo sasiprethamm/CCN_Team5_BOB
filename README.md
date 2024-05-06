@@ -1,11 +1,11 @@
 # ITCS 6166: Computer Comm & Networks - Project
-### Group Number: 3
+### Group Number: 5
 
 #### Group Members:
-- Jared Tamulynas
-- Akhil Pravardhan Manneni
-- Rakesh Anumula
-- Sai Rohit Madapathi
+- Madhavi Badugu
+- Nikitha Basavanna
+- Sasi Pretham Nakka
+- Manas Penmetsa
 
 ## Project Overview
 This project aims to investigate the role of AI, specifically generative AI and reinforcement learning, in enhancing networking performance. The focus is on using minimal network bandwidth for high-quality video streaming services. Please see section 3 for execution instructions for running our applications.
@@ -21,9 +21,9 @@ This project aims to investigate the role of AI, specifically generative AI and 
 ### 2. Inference Codes Execution / Replicated Results
 **Objective:** Replicate results using the inference codes from the selected paper.  
 **Minimum Requirement:** Successful execution of test/inference codes.  
-**Demonstration Video:** [Test/Inference Codes Execution](https://youtu.be/fXW81C41r4k)
+**Demonstration Video:** [Test/Inference Codes Execution](https://www.youtube.com/watch?v=WBudCzzKtZk)
 
-[![YouTube Video](https://img.youtube.com/vi/fXW81C41r4k/0.jpg)](https://www.youtube.com/watch?v=fXW81C41r4k)
+[![YouTube Video](https://img.youtube.com/vi/fXW81C41r4k/0.jpg)](https://www.youtube.com/watch?v=WBudCzzKtZk)
 
 #### Execution Instructions:
 1. Clone the BoB repository from GitHub. [BoB GitHub Repository](https://github.com/NUStreaming/BoB)
@@ -40,9 +40,9 @@ This project aims to investigate the role of AI, specifically generative AI and 
 
 **Overview:** Our project includes a mobile (Folder: Android Mobile App) and desktop application (Folder: Desktop App). Please see below specific execution instructions for each application.
 
-**Demonstration Video:** [Android App Execution](https://www.youtube.com/watch?v=fI6-y4lLvTM)
+**Demonstration Video:** [Android App Execution](https://www.youtube.com/watch?v=O5xuMMcvR8U)
 
-[![YouTube Video](https://img.youtube.com/vi/fI6-y4lLvTM/0.jpg)](https://www.youtube.com/watch?v=fI6-y4lLvTM)
+[![YouTube Video](https://img.youtube.com/vi/fI6-y4lLvTM/0.jpg)](https://www.youtube.com/watch?v=O5xuMMcvR8U)
 
 #### Android Application Execution Instructions:
 - **Setup Instructions**:
@@ -55,17 +55,17 @@ This project aims to investigate the role of AI, specifically generative AI and 
 7. Add your local IP address in the `local.properties` file as `SIGNALING_SERVER_IP_ADDRESS`.
 8. Build and run the application on your Android device or emulator. (Need two devices to test, or one emulator and one real android device)
 
-<img width="835" alt="image" src="https://github.com/jaredt93/ITCS6166-group3/assets/36479936/e8aaa0c6-0871-4148-b1e8-ff1834bf4e7e">
+<img width="835" alt="image" src="https://github.com/sasiprethamm/proj_today/assets/143413924/bb83e5f1-c0cc-424c-9655-9fce78c5e1fa">
 
-<img width="1089" alt="image" src="https://github.com/jaredt93/ITCS6166-group3/assets/36479936/9ef85263-5fc4-40d6-8163-112fc473e939">
+<img width="1089" alt="image" src="https://github.com/sasiprethamm/proj_today/assets/143413924/8e916e32-326b-4311-b75f-7e3734f2478b">
 
-<img width="1283" alt="image" src="https://github.com/jaredt93/ITCS6166-group3/assets/36479936/2d74b4a7-63dc-4125-b028-1a8c777e08eb">
+<img width="1283" alt="image" src="https://github.com/sasiprethamm/proj_today/assets/143413924/514d23b5-72fd-4f49-8686-9e6641128d4d">
 
 ------------------------------------------------------------------------------------------------
 
-**Demonstration Video:** [Desktop App Execution](https://www.youtube.com/watch?v=I88tBa0Dz1g&t=1s)
+**Demonstration Video:** [Desktop App Execution](https://www.youtube.com/watch?v=WBudCzzKtZk)
 
-[![YouTube Video](https://img.youtube.com/vi/I88tBa0Dz1g&t=1s/0.jpg)](https://www.youtube.com/watch?v=I88tBa0Dz1g&t=1s)
+[![YouTube Video](https://img.youtube.com/vi/I88tBa0Dz1g&t=1s/0.jpg)](https://www.youtube.com/watch?v=WBudCzzKtZk)
 
 #### Desktop Application Execution Instructions:
 - **Setup Instructions**:
@@ -77,8 +77,8 @@ This project aims to investigate the role of AI, specifically generative AI and 
 6. Open your browser and go to http://localhost:3000.
 7. Copy the URL which has a room ID appended at the end
 8. Copy and open it in other window
-   
-<img width="1470" alt="Screenshot 2023-12-10 at 10 47 30 AM" src="https://github.com/jaredt93/ITCS6166-group3/assets/46320920/7de76dc8-45c2-4b31-a75c-1c5f9b1a3c93">
+
+<img width="1470" alt="image" src="https://github.com/sasiprethamm/proj_today/assets/143413924/6b3db899-147d-47c7-a71d-493826a60698">
 
 
 ------------------------------------------------------------------------------------------------
