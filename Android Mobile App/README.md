@@ -1,11 +1,11 @@
 # ITCS 6166: Computer Comm & Networks - Project
-### Group Number: 3
+### Group Number: 5
 
 #### Group Members:
-- Jared Tamulynas
-- Akhil Pravardhan Manneni
-- Rakesh Anumula
-- Sai Rohit Madapathi
+Madhavi Badugu
+Nikitha Basavanna
+Sasi Pretham Nakka
+Manas Penmetsa
 
 ------------------------------------------------------------------------------------------------
 
