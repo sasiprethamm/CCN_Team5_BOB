@@ -2,10 +2,10 @@
 ### Group Number: 5
 
 #### Group Members:
-Madhavi Badugu
-Nikitha Basavanna
-Sasi Pretham Nakka
-Manas Penmetsa
+- Madhavi Badugu
+- Nikitha Basavanna
+- Sasi Pretham Nakka
+- Manas Penmetsa
 
 ------------------------------------------------------------------------------------------------
 
